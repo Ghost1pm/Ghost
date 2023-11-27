@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gojo54
+- 👋 Hi, I’m @Ghost54
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning Web development
 - 💞️ I’m learning next language is java
-- 📫 you reach me on Instagram
+- 📫 you reach me on Instagram,Discord,Twitter
 
 <!---
 Gojo54/Gojo54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
